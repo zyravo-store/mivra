@@ -10,9 +10,9 @@
 
 | 平台 | 已发布安装包 |
 |---|---|
-| macOS | 准备中 |
-| Windows | 准备中 |
-| Linux | 准备中 |
+| macOS | [dmg Universal · Apple Silicon + Intel 1.0.0 (26072401)](https://github.com/zyravo-store/mivra/releases/download/v1.0.0/Mivra_1.0.0_26072401_universal.dmg) · [dmg Apple Silicon 1.0.0 (26072401)](https://github.com/zyravo-store/mivra/releases/download/v1.0.0/Mivra_1.0.0_26072401_arm64.dmg) |
+| Windows | [exe x64 1.0.0 (26072401)](https://github.com/zyravo-store/mivra/releases/download/v1.0.0/Mivra_1.0.0_26072401_x64.exe) · [msi x64 1.0.0 (26072401)](https://github.com/zyravo-store/mivra/releases/download/v1.0.0/Mivra_1.0.0_26072401_x64.msi) |
+| Linux | [AppImage x86_64 1.0.0 (26072401)](https://github.com/zyravo-store/mivra/releases/download/v1.0.0/Mivra_1.0.0_26072401_x64.AppImage) · [deb x86_64 1.0.0 (26072401)](https://github.com/zyravo-store/mivra/releases/download/v1.0.0/Mivra_1.0.0_26072401_x64.deb) |
 
 在[官网下载页](https://mivra.zyravo.store/download)选择操作系统与处理器，安装前阅读该版本发行说明。
 
@@ -28,7 +28,11 @@
 
 剪贴板 ZIP 与便签、待办、书签的工作区 JSON 是两份不同的备份，均未加密。请安全保管，恢复后核对内容，确认完整前保留原件。只开启需要的系统权限与第三方引擎。
 
-Homebrew 是独立发行渠道，仅在 Tap 和对应安装包均已正式发布后使用。
+通过 Homebrew 安装已发布的 macOS 包：
+
+```sh
+brew install --cask zyravo-store/mivra/mivra
+```
 
 官网：https://mivra.zyravo.store/ · 支持：support@zyravo.store
 

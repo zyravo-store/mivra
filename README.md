@@ -10,9 +10,9 @@ Only packages listed as published on the official download page are available. O
 
 | Platform | Published packages |
 |---|---|
-| macOS | In preparation |
-| Windows | In preparation |
-| Linux | In preparation |
+| macOS | [dmg Universal · Apple Silicon + Intel 1.0.0 (26072401)](https://github.com/zyravo-store/mivra/releases/download/v1.0.0/Mivra_1.0.0_26072401_universal.dmg) · [dmg Apple Silicon 1.0.0 (26072401)](https://github.com/zyravo-store/mivra/releases/download/v1.0.0/Mivra_1.0.0_26072401_arm64.dmg) |
+| Windows | [exe x64 1.0.0 (26072401)](https://github.com/zyravo-store/mivra/releases/download/v1.0.0/Mivra_1.0.0_26072401_x64.exe) · [msi x64 1.0.0 (26072401)](https://github.com/zyravo-store/mivra/releases/download/v1.0.0/Mivra_1.0.0_26072401_x64.msi) |
+| Linux | [AppImage x86_64 1.0.0 (26072401)](https://github.com/zyravo-store/mivra/releases/download/v1.0.0/Mivra_1.0.0_26072401_x64.AppImage) · [deb x86_64 1.0.0 (26072401)](https://github.com/zyravo-store/mivra/releases/download/v1.0.0/Mivra_1.0.0_26072401_x64.deb) |
 
 Choose your operating system and processor on the [download page](https://mivra.zyravo.store/download). Read the release notes before installing.
 
@@ -28,7 +28,11 @@ Read the [website guide](https://mivra.zyravo.store/docs). English and Chinese G
 
 Clipboard ZIP backups and workspace JSON backups for notes, tasks and bookmarks are separate. Both are unencrypted: keep them safe and retain the originals until restored content has been checked. Configure only the permissions and third-party providers you need.
 
-Homebrew is a separate distribution channel. Use it only after its tap and matching packages have been published.
+Install the published macOS package with Homebrew:
+
+```sh
+brew install --cask zyravo-store/mivra/mivra
+```
 
 Website: https://mivra.zyravo.store/ · Support: support@zyravo.store
 

@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: User guide / 使用指南
+    url: 'https://mivra.zyravo.store/docs'
+    about: Installation, backups, permissions and troubleshooting / 安装、备份、权限与故障排查
+  - name: Downloads / 安装包下载
+    url: 'https://mivra.zyravo.store/download'
+    about: Published packages and checksums / 已发布安装包与校验值
