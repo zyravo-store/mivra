@@ -11,8 +11,8 @@ Only packages listed as published on the official download page are available. O
 | Platform | Published packages |
 |---|---|
 | macOS | [dmg Universal · Apple Silicon + Intel 1.0.0 (26072401)](https://github.com/zyravo-store/mivra/releases/download/v1.0.0/Mivra_1.0.0_26072401_universal.dmg) · [dmg Apple Silicon 1.0.0 (26072401)](https://github.com/zyravo-store/mivra/releases/download/v1.0.0/Mivra_1.0.0_26072401_arm64.dmg) |
-| Windows | [exe x64 1.0.0 (26072401)](https://github.com/zyravo-store/mivra/releases/download/v1.0.0/Mivra_1.0.0_26072401_x64.exe) · [msi x64 1.0.0 (26072401)](https://github.com/zyravo-store/mivra/releases/download/v1.0.0/Mivra_1.0.0_26072401_x64.msi) |
-| Linux | [AppImage x86_64 1.0.0 (26072401)](https://github.com/zyravo-store/mivra/releases/download/v1.0.0/Mivra_1.0.0_26072401_x64.AppImage) · [deb x86_64 1.0.0 (26072401)](https://github.com/zyravo-store/mivra/releases/download/v1.0.0/Mivra_1.0.0_26072401_x64.deb) |
+| Windows | [exe x64 1.0.0 (26072401)](https://github.com/zyravo-store/mivra/releases/download/v1.0.0/Mivra_1.0.0_26072401_x64.exe) · [msi x64 1.0.0 (26072401)](https://github.com/zyravo-store/mivra/releases/download/v1.0.0/Mivra_1.0.0_26072401_x64.msi) · [exe ARM64 1.0.0 (26072401)](https://github.com/zyravo-store/mivra/releases/download/v1.0.0/Mivra_1.0.0_26072401_arm64.exe) · [msi ARM64 1.0.0 (26072401)](https://github.com/zyravo-store/mivra/releases/download/v1.0.0/Mivra_1.0.0_26072401_arm64.msi) |
+| Linux | [AppImage x86_64 1.0.0 (26072401)](https://github.com/zyravo-store/mivra/releases/download/v1.0.0/Mivra_1.0.0_26072401_x64.AppImage) · [deb x86_64 1.0.0 (26072401)](https://github.com/zyravo-store/mivra/releases/download/v1.0.0/Mivra_1.0.0_26072401_x64.deb) · [AppImage ARM64 1.0.0 (26072401)](https://github.com/zyravo-store/mivra/releases/download/v1.0.0/Mivra_1.0.0_26072401_arm64.AppImage) · [deb ARM64 1.0.0 (26072401)](https://github.com/zyravo-store/mivra/releases/download/v1.0.0/Mivra_1.0.0_26072401_arm64.deb) |
 
 Choose your operating system and processor on the [download page](https://mivra.zyravo.store/download). Read the release notes before installing.
 

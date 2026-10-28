@@ -11,8 +11,8 @@
 | 平台 | 已发布安装包 |
 |---|---|
 | macOS | [dmg Universal · Apple Silicon + Intel 1.0.0 (26072401)](https://github.com/zyravo-store/mivra/releases/download/v1.0.0/Mivra_1.0.0_26072401_universal.dmg) · [dmg Apple Silicon 1.0.0 (26072401)](https://github.com/zyravo-store/mivra/releases/download/v1.0.0/Mivra_1.0.0_26072401_arm64.dmg) |
-| Windows | [exe x64 1.0.0 (26072401)](https://github.com/zyravo-store/mivra/releases/download/v1.0.0/Mivra_1.0.0_26072401_x64.exe) · [msi x64 1.0.0 (26072401)](https://github.com/zyravo-store/mivra/releases/download/v1.0.0/Mivra_1.0.0_26072401_x64.msi) |
-| Linux | [AppImage x86_64 1.0.0 (26072401)](https://github.com/zyravo-store/mivra/releases/download/v1.0.0/Mivra_1.0.0_26072401_x64.AppImage) · [deb x86_64 1.0.0 (26072401)](https://github.com/zyravo-store/mivra/releases/download/v1.0.0/Mivra_1.0.0_26072401_x64.deb) |
+| Windows | [exe x64 1.0.0 (26072401)](https://github.com/zyravo-store/mivra/releases/download/v1.0.0/Mivra_1.0.0_26072401_x64.exe) · [msi x64 1.0.0 (26072401)](https://github.com/zyravo-store/mivra/releases/download/v1.0.0/Mivra_1.0.0_26072401_x64.msi) · [exe ARM64 1.0.0 (26072401)](https://github.com/zyravo-store/mivra/releases/download/v1.0.0/Mivra_1.0.0_26072401_arm64.exe) · [msi ARM64 1.0.0 (26072401)](https://github.com/zyravo-store/mivra/releases/download/v1.0.0/Mivra_1.0.0_26072401_arm64.msi) |
+| Linux | [AppImage x86_64 1.0.0 (26072401)](https://github.com/zyravo-store/mivra/releases/download/v1.0.0/Mivra_1.0.0_26072401_x64.AppImage) · [deb x86_64 1.0.0 (26072401)](https://github.com/zyravo-store/mivra/releases/download/v1.0.0/Mivra_1.0.0_26072401_x64.deb) · [AppImage ARM64 1.0.0 (26072401)](https://github.com/zyravo-store/mivra/releases/download/v1.0.0/Mivra_1.0.0_26072401_arm64.AppImage) · [deb ARM64 1.0.0 (26072401)](https://github.com/zyravo-store/mivra/releases/download/v1.0.0/Mivra_1.0.0_26072401_arm64.deb) |
 
 在[官网下载页](https://mivra.zyravo.store/download)选择操作系统与处理器，安装前阅读该版本发行说明。
 
