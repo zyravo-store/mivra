@@ -18,6 +18,10 @@ Choose your operating system and processor on the [download page](https://mivra.
 
 [Release notes and packages](https://github.com/zyravo-store/mivra/releases)
 
+## Updates
+
+In Settings → Help, choose Check for updates to read stable releases from the official public GitHub repository. Automatic checks are off by default. macOS selects the arm64 DMG on Apple Silicon and the Universal DMG on Intel; it compares both the version and Build. Downloading a package does not install it; quit the app and finish installation yourself.
+
 ## Getting started
 
 Enable clipboard capture, copy a short public text sample, and find it in Clipboard. Search or favorite items, organize notes, tasks and bookmarks, and configure your preferred shortcuts in Settings. Feature availability depends on the operating system and the released package.
