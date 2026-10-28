@@ -22,6 +22,8 @@ Choose your operating system and processor on the [download page](https://mivra.
 
 In Settings → Help, choose Check for updates to read stable releases from the official public GitHub repository. Automatic checks are off by default. macOS selects the arm64 DMG on Apple Silicon and the Universal DMG on Intel; it compares both the version and Build. Downloading a package does not install it; quit the app and finish installation yourself.
 
+> **Original 1.0.0 macOS and x64 packages:** the in-app update check currently fails after the ARM64 downloads were added. Use the official download page to check versions and download manually. The existing installers and their published checksums remain valid.
+
 ## Getting started
 
 Enable clipboard capture, copy a short public text sample, and find it in Clipboard. Search or favorite items, organize notes, tasks and bookmarks, and configure your preferred shortcuts in Settings. Feature availability depends on the operating system and the released package.
