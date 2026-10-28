@@ -28,7 +28,7 @@
 
 开启剪贴板采集，复制一小段公开示例文本，在剪贴板页面查看。搜索或收藏常用内容，整理便签、待办与书签，并在设置中配置快捷键。功能可用性以操作系统与实际发布的安装包为准。
 
-先阅读[官网指南](https://mivra.zyravo.store/docs)，中英文 GitHub Wiki 正在准备中。
+[简体中文指南](https://github.com/zyravo-store/mivra/wiki/Home-zh-CN) · [English](https://github.com/zyravo-store/mivra/wiki/Home)。Wiki 单独发布。
 
 ## 备份与隐私
 

@@ -28,7 +28,7 @@ In Settings → Help, choose Check for updates to read stable releases from the 
 
 Enable clipboard capture, copy a short public text sample, and find it in Clipboard. Search or favorite items, organize notes, tasks and bookmarks, and configure your preferred shortcuts in Settings. Feature availability depends on the operating system and the released package.
 
-Read the [website guide](https://mivra.zyravo.store/docs). English and Chinese GitHub Wiki pages are in preparation.
+[English user guide](https://github.com/zyravo-store/mivra/wiki/Home) · [简体中文](https://github.com/zyravo-store/mivra/wiki/Home-zh-CN). The Wiki is published separately.
 
 ## Backups and privacy
 
